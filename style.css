@@ -1,0 +1,40 @@
+.cerceve{
+    width: 810px;
+    margin: auto;
+}
+body{
+    background: url(resim/bg.png)repeat-x;
+}
+.ust{
+    padding: 15px;
+    background-color: white;
+}.menu{
+    background: #0e8fd4;
+    padding: 10px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+}
+.menu a:hover{
+    color: #000;
+}
+.icerik,.icerik_urunler{
+    background: #fff;
+    padding: 15px;
+
+}
+.icerik img{
+    float: right;
+}
+h1{
+    color: red;
+}
+.alt{
+    text-align: center;
+    padding: 5px;
+    background: gray;
+    color: white;
+}
+.temizle{clear: both;}
